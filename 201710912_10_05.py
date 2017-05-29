@@ -57,4 +57,4 @@ drawTriangleAT(100,x1)
 drawPentagon(100,x2)
 drawStarAT(100,x3)
 
-win.exitonclick()
+wn.exitonclick()
